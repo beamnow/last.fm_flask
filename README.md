@@ -1,5 +1,5 @@
 # last.fm TEST
-간단한 음악 검색
+Flask와 last.fm을 이용한 간단한 음악 검색
 
 사용 영상
 
